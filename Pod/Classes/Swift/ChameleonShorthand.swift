@@ -53,6 +53,7 @@ public func RandomFlatColorWithShade(_ shade: UIShadeStyle) -> UIColor {
     return UIColor(randomFlatColorOf: shade)
 }
 
+
 /**
  Creates and returns either a black or white color object depending on which contrasts more with a specified color.
  
